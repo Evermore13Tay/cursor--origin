@@ -1,0 +1,6 @@
+.google-tokens.json
+client_secret*.json
+*-credentials.json
+service-account*.json
+.env
+.env.*
