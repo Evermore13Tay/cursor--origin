@@ -1,0 +1,3 @@
+submission_id,submitted_at,name,email,organization,country,category,title,details,attachment_url,language,consent,sync_status,feishu_record_id,last_synced_at,error_message
+sub_20260903_001,2026-09-03 10:00:00 UTC,Alex Chen,alex.chen@example.com,Northwind Studio,United States,Partner,Q4 collab brief,Sharing campaign assets and launch window for the overseas test.,https://drive.google.com/file/d/example,en,Yes,New,,,
+sub_20260903_002,2026-09-03 11:30:00 UTC,Mina Sato,mina.sato@example.jp,Sakura Games,Japan,Content,JP store listing copy,"Japanese title, subtitle, and description draft for review.",https://docs.google.com/document/d/example,ja,Yes,Synced,rec_feishu_demo_002,2026-09-03 12:00:00 UTC,
